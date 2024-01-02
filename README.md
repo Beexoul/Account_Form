@@ -17,8 +17,6 @@ A simple and stylish HTML/CSS/JavaScript template for a Sign In & Sign Up page w
 ![Sign In & Sign Up Page](/Assist/Signup.png)
 
 
-[Live Demo](#) - _Provide a link to a live demo if available._
-
 ## Features
 
 - Sign In and Sign Up forms with social media login options.
@@ -63,4 +61,4 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make changes and commit them.
 4. Push the changes to your fork.
 5. Open a pull request.
-\
+\[Live Demo](#) - _Provide a link to a live demo if available._
