@@ -9,7 +9,6 @@ A simple and stylish HTML/CSS/JavaScript template for a Sign In & Sign Up page w
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -33,7 +32,7 @@ A simple and stylish HTML/CSS/JavaScript template for a Sign In & Sign Up page w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sign-in-sign-up-page.git
+   git clone https://github.com/Beexoul/Account_Form.git
    ```
 
 2. Open the `index.html` file in a web browser.
@@ -49,15 +48,11 @@ A simple and stylish HTML/CSS/JavaScript template for a Sign In & Sign Up page w
 
 ### Fonts
 
-This template uses the "Poppins" font. You can replace it with your preferred font by modifying the `@import` statement in the `style.css` file.
+This uses the "Poppins" font. You can replace it with your preferred font by modifying the `@import` statement in the `style.css` file.
 
 ### Colors
 
 You can customize the color scheme by adjusting the background colors, text colors, and button colors in the `style.css` file.
-
-### Logo
-
-Replace the images in the `img` folder (`log.svg` and `register.webp`) with your own logo or images.
 
 ## Contributing
 
@@ -68,7 +63,4 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make changes and commit them.
 4. Push the changes to your fork.
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+\
