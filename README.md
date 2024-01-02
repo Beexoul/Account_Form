@@ -10,7 +10,7 @@ A simple and stylish HTML/CSS/JavaScript template for a Sign In & Sign Up page w
 - [Customization](#customization)
 - [Contributing](#contributing)
 
-## Demo
+## Preview
 
 ![Sign In & Sign Up Page](/Assist/Login.png)
 
