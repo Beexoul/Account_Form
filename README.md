@@ -4,7 +4,6 @@ A simple and stylish HTML/CSS/JavaScript template for a Sign In & Sign Up page w
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
